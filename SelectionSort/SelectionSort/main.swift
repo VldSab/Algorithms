@@ -39,3 +39,4 @@ func SelectionSort(_ arr: Array<Int>) -> Array<Int>{
 }
 
 print(SelectionSort(array), array)
+
